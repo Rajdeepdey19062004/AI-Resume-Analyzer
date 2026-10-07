@@ -1,0 +1,50 @@
+skill,category
+python,programming
+java,programming
+c++,programming
+c,programming
+javascript,programming
+typescript,programming
+html,web
+css,web
+react,web
+angular,web
+node.js,backend
+django,backend
+flask,backend
+fastapi,backend
+spring boot,backend
+sql,database
+mysql,database
+postgresql,database
+mongodb,database
+redis,database
+pandas,data science
+numpy,data science
+matplotlib,data science
+scikit-learn,machine learning
+tensorflow,machine learning
+pytorch,machine learning
+machine learning,machine learning
+deep learning,machine learning
+natural language processing,ai
+nlp,ai
+computer vision,ai
+artificial intelligence,ai
+git,tools
+github,tools
+docker,devops
+kubernetes,devops
+linux,operating system
+aws,cloud
+azure,cloud
+google cloud,cloud
+rest api,backend
+restful api,backend
+microservices,architecture
+data structures,computer science
+algorithms,computer science
+oop,computer science
+dbms,computer science
+operating systems,computer science
+computer networks,computer science
